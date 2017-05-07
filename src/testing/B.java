@@ -11,5 +11,6 @@ public class B
 	{
 		Reporter.log("Man", true);
 		System.out.println("Ya its working");
+		Reporter.log("Man QWWWWW", true);
 	}
 }
